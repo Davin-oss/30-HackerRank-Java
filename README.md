@@ -1,3 +1,3 @@
-# 30 Day code HackerRank
+# 30 Days code HackerRank
 
 JAVA
