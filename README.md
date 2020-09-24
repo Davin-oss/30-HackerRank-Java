@@ -1,3 +1,3 @@
-# Full-Stack-Projects
+# 30 Day code HackerRank
 
-Demonstrate skills in HTML,CSS,Java Script, Database and Ruby for Full-Stack position.
+JAVA
